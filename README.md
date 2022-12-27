@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SftSrvSctt  or Scott Chung!
+- 👋 Hi, I’m @SJC-Grips  or Scott Chung!
 - 👀 I’m interested in coding and game design!
 - 🌱 I’m currently learning Java, Python, and C#!
 - 💞️ I’m looking to collaborate on anything and everything.
